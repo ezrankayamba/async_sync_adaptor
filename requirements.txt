@@ -1,0 +1,4 @@
+autopep8==1.6.0
+kafka-python==2.0.2
+pycodestyle==2.8.0
+toml==0.10.2
